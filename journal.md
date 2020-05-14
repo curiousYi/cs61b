@@ -10,4 +10,9 @@ java foobar
 
 Compiling guarantees type-safety and a type error won't occur during runtime.
 
+##5/14/20
+`public static void`
+
+The last part `void` indicates the return type.
+
 
