@@ -16,3 +16,6 @@ Compiling guarantees type-safety and a type error won't occur during runtime.
 The last part `void` indicates the return type.
 
 
+##5/20/20
+Learned about `break` and `continue`
+Exitting a loop complete and exiting the current iteratino of a loop.
